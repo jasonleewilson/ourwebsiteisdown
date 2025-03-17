@@ -1,5 +1,6 @@
 {
   "name": "ourwebsiteisdown",
-  "compatibility_date": "01/01/2025",
+  "compatibility_date": "2025-01-31",
+  "main": "src/worker.js"
   "pages_build_output_dir": "./build/client"
 }
